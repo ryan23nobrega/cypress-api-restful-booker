@@ -108,7 +108,7 @@ O projeto utiliza **GitHub Actions** para execução automática dos testes:
 Ryan Nóbrega  
 
 GitHub: https://github.com/ryan23nobrega  
-LinkedIn: (adicione seu link aqui)  
+LinkedIn: https://www.linkedin.com/in/ryantech23/  
 
 ---
 
